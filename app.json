@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "The Guardian Dog",
+    "slug": "the-guardian-dog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#080B10"
+      }
+    }
+  }
+}
